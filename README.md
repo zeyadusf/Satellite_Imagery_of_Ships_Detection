@@ -17,19 +17,26 @@ This dataset was created for the primary use of making a data generator for the 
 This dataset consists of 2 directories, no-ship and ship, with each containing images as specified in the original dataset.
 
 
+<b> If you liked the project, do not forget to upVote in Kaggel </b>
+
 🔗 <b> NoteBooke in Kaggel  : [Satellite_Imagery_of_Ships_Detection~99%](https://www.kaggle.com/code/zeyadusf/satellite-imagery-of-ships-detection-99)
+
+🔗 <b> Can Use Model : [Model](https://github.com/zeyadusf/Satellite_Imagery_of_Ships_Detection/blob/main/model.h5) </b>
+
 
 <hr>
 
-<b>This is the output of the model.</b>
+<b>This is the output of the Notebook.</b>
 
-<div align="center"> 
+
 
 ![ship](https://github.com/zeyadusf/Satellite_Imagery_of_Ships_Detection/assets/83798621/8d6903c5-d6ff-4306-8c1a-c584eaca22c3)
 ![no-ship](https://github.com/zeyadusf/Satellite_Imagery_of_Ships_Detection/assets/83798621/ce1bb2fc-984a-4e85-9057-9bccd0971f0c)
 
 <hr>
 
+<div align="center"> 
+  
 ![historyModel](https://github.com/zeyadusf/Satellite_Imagery_of_Ships_Detection/assets/83798621/fb2da9d3-a672-4808-97fa-564099ab52cc)
 
 </div>
@@ -47,6 +54,7 @@ Model Evaluation ( Classification Report)
     accuracy                           0.99       700
 
 ```
+
 
 <hr>
 
